@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "title": "Site Les Moldu",
+      "url": "https://lumieark.github.io/site-lesmoldu/",
+      "icon": "Globe"
+    },
+    {
+      "title": "Discord",
+      "url": "https://discord.gg/f9xnAazV",
+      "icon": "Discord"
+    }
+  ]
+}
+
+
